@@ -29,7 +29,7 @@
             ]
         },
         {
-            "name": "(gdb) Launch",
+            "name": "calibration",
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/Examples/CameraCalibration/camera_calibration",
