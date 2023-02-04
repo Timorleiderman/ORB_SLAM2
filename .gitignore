@@ -24,3 +24,5 @@ lib/
 
 Examples/CameraCalibration/camera_calibration
 *.jpg
+*.jpeg
+*.HEIC
